@@ -36,11 +36,12 @@ h2 {
 }
 
 .customtext {
-    width: 94%;
+    width: 92%;
     right: 0%;
     left: 4%;
     position: absolute;
 }
+
 h3 h4 h5 {
 font-family: Georgia, 'Times New Roman', Times, serif
 }
@@ -51,6 +52,7 @@ hr {
   height: 5px;
 }
 
+img { width: 100%;}
 
 #bio {float: left;
   margin-top: 0px;
